@@ -1,0 +1,33 @@
+#status {
+    position: relative;
+    white-space: inherit;
+    width: 800px;
+    height: 150px;
+    padding: 0 0;
+    background-color: #FFDA24;
+}
+
+#accountLink {
+    padding: 5px 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.logo {
+    display: inline;
+    margin: 0 auto;
+    padding: 0 0;
+    width: 200px;
+    height: 50px;
+}
+
+.points-text {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 2em;
+    margin: 5px 5px;
+    padding: 0 0;
+    color: green;
+}
